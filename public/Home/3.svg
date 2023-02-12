@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="99" viewBox="0 0 76 99">
+  <g id="Group_46824" data-name="Group 46824" transform="translate(-66 -421)">
+    <g id="svgexport-10_23_" data-name="svgexport-10 (23)" transform="translate(74 420)">
+      <g id="Colorline_final" transform="translate(1 1)">
+        <path id="Path_75963" data-name="Path 75963" d="M23,25H43.226v3.677H23Z" transform="translate(-2.774 -2.935)" fill="#e5b363"/>
+        <path id="Path_75964" data-name="Path 75964" d="M23,29H43.226v3.677H23Z" transform="translate(-2.774 -3.258)" fill="#fcc96d"/>
+        <path id="Path_75965" data-name="Path 75965" d="M23,33H43.226v5.516H23Z" transform="translate(-2.774 -3.581)" fill="#e5b363"/>
+        <path id="Path_75966" data-name="Path 75966" d="M39,25h5.516V37.871H39Z" transform="translate(-4.065 -2.935)" fill="#231f20" opacity="0.15"/>
+        <circle id="Ellipse_7860" data-name="Ellipse 7860" cx="10" cy="10" r="10" transform="translate(20 1)" fill="#fcc96d"/>
+        <path id="Path_75967" data-name="Path 75967" d="M0,0H16.883V14.951H0Z" transform="translate(16.563 28.509) rotate(45)" fill="#efc7bd"/>
+        <path id="Path_75968" data-name="Path 75968" d="M19,32H34.629a2.758,2.758,0,0,1,0,5.516H19Z" transform="translate(-2.452 -3.5)" fill="#efc7bd"/>
+        <path id="Path_75969" data-name="Path 75969" d="M42.387,46.149l15.694-16.39a2.758,2.758,0,1,0-3.9-3.9l-10.874,11.1H24v9.194Z" transform="translate(-2.855 -2.94)" fill="#efc7bd"/>
+        <path id="Path_75970" data-name="Path 75970" d="M0,0H22.065V9.194H0Z" transform="translate(7.405 33.992) rotate(45)" fill="#a6a1ce"/>
+        <g id="Group_46823" data-name="Group 46823">
+          <path id="Path_75971" data-name="Path 75971" d="M43.145,37.79a.919.919,0,0,1-.919-.919V25.839H23.839v5.516a.919.919,0,0,1-1.839,0V24.919A.919.919,0,0,1,22.919,24H43.145a.919.919,0,0,1,.919.919V36.871A.919.919,0,0,1,43.145,37.79Z" transform="translate(-2.694 -2.855)" fill="#231f20"/>
+          <path id="Path_75972" data-name="Path 75972" d="M43.145,29.839H22.919a.919.919,0,0,1,0-1.839H43.145a.919.919,0,1,1,0,1.839Z" transform="translate(-2.694 -3.177)" fill="#231f20"/>
+          <path id="Path_75973" data-name="Path 75973" d="M44.373,33.839H38.149a.919.919,0,0,1,0-1.839h6.224a.919.919,0,1,1,0,1.839Z" transform="translate(-3.922 -3.5)" fill="#231f20"/>
+          <path id="Path_75974" data-name="Path 75974" d="M33.032,23.065A11.032,11.032,0,1,1,44.065,12.032,11.032,11.032,0,0,1,33.032,23.065Zm0-20.226a9.194,9.194,0,1,0,9.194,9.194,9.194,9.194,0,0,0-9.194-9.194Z" transform="translate(-2.694 -1)" fill="#231f20"/>
+          <path id="Path_75975" data-name="Path 75975" d="M34.6,17.194H30.919a.919.919,0,0,1,0-1.839H34.6a.919.919,0,0,0,0-1.839H32.758a2.758,2.758,0,0,1,0-5.516h3.677a.919.919,0,1,1,0,1.839H32.758a.919.919,0,0,0,0,1.839H34.6a2.758,2.758,0,1,1,0,5.516Z" transform="translate(-3.339 -1.565)" fill="#231f20"/>
+          <path id="Path_75976" data-name="Path 75976" d="M33.919,9.677A.919.919,0,0,1,33,8.758V6.919a.919.919,0,0,1,1.839,0V8.758A.919.919,0,0,1,33.919,9.677Z" transform="translate(-3.581 -1.403)" fill="#231f20"/>
+          <path id="Path_75977" data-name="Path 75977" d="M33.919,19.677A.919.919,0,0,1,33,18.758V16.919a.919.919,0,1,1,1.839,0v1.839A.919.919,0,0,1,33.919,19.677Z" transform="translate(-3.581 -2.21)" fill="#231f20"/>
+          <path id="Path_75978" data-name="Path 75978" d="M17.548,60.9a.919.919,0,0,1-.65-.269L1.269,45a.919.919,0,0,1,0-1.3L7.7,37.269a.919.919,0,0,1,1.3,0L24.634,52.9a.919.919,0,0,1,0,1.3L18.2,60.634a.919.919,0,0,1-.65.269ZM3.219,44.355,17.548,58.684l5.136-5.136L8.355,39.219Z" transform="translate(-1 -3.903)" fill="#231f20"/>
+          <path id="Path_75979" data-name="Path 75979" d="M10.919,40.194a.919.919,0,0,1-.65-1.569l7.355-7.355a.919.919,0,0,1,.65-.269H33.9a3.677,3.677,0,0,1,0,7.355H27.468a.919.919,0,1,1,0-1.839H33.9a1.839,1.839,0,1,0,0-3.677H18.655l-7.085,7.085A.919.919,0,0,1,10.919,40.194Z" transform="translate(-1.726 -3.419)" fill="#231f20"/>
+          <path id="Path_75980" data-name="Path 75980" d="M23.919,51.585a.919.919,0,0,1-.65-1.569l4.6-4.6a.919.919,0,0,1,.65-.269H41.91L57.476,28.688a1.688,1.688,0,0,0-2.424-2.35L43.877,37.525a.919.919,0,0,1-.651.269H34.032a.919.919,0,1,1,0-1.839h8.812L53.75,25.037a3.528,3.528,0,0,1,5.056,4.914L42.975,46.7a.919.919,0,0,1-.668.287H28.9l-4.327,4.327a.919.919,0,0,1-.65.269Z" transform="translate(-2.774 -2.859)" fill="#231f20"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
