@@ -1,15 +1,63 @@
 <header class="shadow-sm text-white fixed-top  ">
     <div class="container">
+
+
+
+
         <div class="d-flex align-items-center justify-content-between py-2">
+
+
+
+
             <a class="navbar-brand me-0 d-md-inline-block d-none position-relative" target="_blank"
                href="{{route('admin.home')}}"><img width="50" height="50" class="img-fluid"
                                                    src="{{asset('dashboard/images/loge.svg')}}" alt=""></a>
 
+
+
+
+
+
             <p>اهلا وسهلا بك</p>
 
+
+
+
             <div class="d-flex justify-content-center align-self-center">
+
+
+                <div class="ps-2" style="    float: left;
+                margin-left: 40px;">
+
+                    <p class="mb-0 fs-12p">     <i class="fa fa-bell" style="font-size:24px"></i>
+                    </p>
+
+
+
+                </div>
+
+
+
+                <div class="ps-2" style="    float: left;
+                margin-left: 40px;">
+                    <p class="mb-0 fs-12p">   <i class="fa fa-comments" style="font-size:24px"></i>
+                    </p>
+
+
+
+
+                </div>
+
+
+
+
+
+
                 <img class="rounded-circle border border-white shadow" width="30" height="30"
                      src="{{asset('dashboard/images/1.png')}}" alt="">
+
+
+
                 <div class="ps-2">
                     <p class="mb-0 fs-12p">{{ Str::limit(auth()->user()->name,15) }}</p>
                     <div class="dropdown">

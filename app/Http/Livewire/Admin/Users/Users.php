@@ -8,7 +8,7 @@ use Livewire\WithPagination;
 
 class Users extends Component
 {
-    use WithPagination;
+    use  WithPagination;
 
     public $search, $name, $email, $mobile, $deleteId, $user_id, $role_id, $role, $create_user, $array;
     protected $paginationTheme = 'bootstrap';
